@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hendalf-dev&label=K%C3%A4vij%C3%A4%C3%A4&color=ff0088&style=flat" alt="hendalf-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hendalf-dev" alt="hendalf-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=hendalf-dev" alt="hendalf-dev](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
+)" /></a> </p>
 
 - 🌱 Oppimassa tällä hetkellä ja haluan oppia **PHP, Bootstrap**
 
